@@ -1,10 +1,10 @@
-# Hi, I'm Cyril Nwachukwu (Uzo) 👋
+# Cyril Nwachukwu (Uzo)
 ### Lead AI Systems Architect & Forward Deployment Engineer (FDE)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-cyril--nwachukwu.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cyril-nwachukwu.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cyril--nwachukwu-000000?style=for-the-badge&logo=cloudflare&logoColor=white)](https://cyril-nwachukwu-portfolio.k1ngceework97.workers.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cyril_Nwachukwu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cyril-nwachukwu-96b029173)
 [![Email](https://img.shields.io/badge/Email-K1ngceework97%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:K1ngceework97@gmail.com)
-[![Status](https://img.shields.io/badge/Status-Global_Remote_Ready-2ea44f?style=for-the-badge)](https://cyril-nwachukwu.vercel.app)
+[![Status](https://img.shields.io/badge/Status-Global_Remote_Ready-2ea44f?style=for-the-badge)](https://cyril-nwachukwu-portfolio.k1ngceework97.workers.dev/)
 
 ---
 
@@ -14,7 +14,7 @@ Senior AI Developer and Client Solutions Architect with 4+ years of experience b
 
 ---
 
-## 🏛️ Core Architectural Capabilities
+## Core Architectural Capabilities
 
 ### 1. Production LLM Governance & Consensus Gates
 * **Multi-Model Consensus Gates:** Author of deterministic consensus engines pairing compiler-as-a-judge AST pre-filters with multi-evaluator rubrics (evaluating code syntax, idempotency, HTTP contracts, and DLP before token expenditure).
@@ -33,7 +33,7 @@ Senior AI Developer and Client Solutions Architect with 4+ years of experience b
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+## Technical Stack & Tooling
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
@@ -45,7 +45,7 @@ Senior AI Developer and Client Solutions Architect with 4+ years of experience b
 
 ---
 
-## 🚀 Featured Production Architectures
+## Featured Production Architectures
 
 * **[Shopify AI Ops Agent](https://github.com/Thebeardedambivert/shopify-ai-ops-agent)**  
   Autonomous, human-governed ecommerce operations agent built with **LangGraph v1**, 5 **Model Context Protocol (MCP)** servers, deterministic SQL analytics, and HMAC-SHA256 safety gates. Eliminates math hallucinations and prevents unauthorized database mutations.
@@ -64,7 +64,7 @@ Senior AI Developer and Client Solutions Architect with 4+ years of experience b
 
 ---
 
-## 📐 First-Principles Engineering Invariants
+## First-Principles Engineering Invariants
 
 1. **Deep Modules over Shallow Modules:** Enforce narrow, minimal public interfaces that conceal internal node mechanics and cyclic state transitions.
 2. **Verification over Velocity:** Never assert system readiness without passing hermetic test suites with zero external network dependencies.
@@ -73,5 +73,5 @@ Senior AI Developer and Client Solutions Architect with 4+ years of experience b
 ---
 
 <p align="center">
-  <b>Cyril Nwachukwu (Uzo)</b> &bull; Global Remote Ready &bull; <a href="mailto:K1ngceework97@gmail.com">K1ngceework97@gmail.com</a> &bull; <a href="https://cyril-nwachukwu.vercel.app">Portfolio</a>
+  <b>Cyril Nwachukwu (Uzo)</b> &bull; Global Remote Ready &bull; <a href="mailto:K1ngceework97@gmail.com">K1ngceework97@gmail.com</a> &bull; <a href="https://cyril-nwachukwu-portfolio.k1ngceework97.workers.dev/">Portfolio</a>
 </p>
